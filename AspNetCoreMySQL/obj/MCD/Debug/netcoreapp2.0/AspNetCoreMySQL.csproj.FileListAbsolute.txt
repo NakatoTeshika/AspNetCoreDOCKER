@@ -1,0 +1,12 @@
+C:\Users\Александра\Desktop\AspNetCoreMySQL\bin\MCD\Debug\netcoreapp2.0\app.db
+C:\Users\Александра\Desktop\AspNetCoreMySQL\bin\MCD\Debug\netcoreapp2.0\AspNetCoreMySQL.deps.json
+C:\Users\Александра\Desktop\AspNetCoreMySQL\bin\MCD\Debug\netcoreapp2.0\AspNetCoreMySQL.runtimeconfig.json
+C:\Users\Александра\Desktop\AspNetCoreMySQL\bin\MCD\Debug\netcoreapp2.0\AspNetCoreMySQL.runtimeconfig.dev.json
+C:\Users\Александра\Desktop\AspNetCoreMySQL\bin\MCD\Debug\netcoreapp2.0\AspNetCoreMySQL.dll
+C:\Users\Александра\Desktop\AspNetCoreMySQL\bin\MCD\Debug\netcoreapp2.0\AspNetCoreMySQL.pdb
+C:\Users\Александра\Desktop\AspNetCoreMySQL\obj\MCD\Debug\netcoreapp2.0\AspNetCoreMySQL.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Desktop\AspNetCoreMySQL\obj\MCD\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Александра\Desktop\AspNetCoreMySQL\obj\MCD\Debug\netcoreapp2.0\AspNetCoreMySQL.AssemblyInfoInputs.cache
+C:\Users\Александра\Desktop\AspNetCoreMySQL\obj\MCD\Debug\netcoreapp2.0\AspNetCoreMySQL.AssemblyInfo.cs
+C:\Users\Александра\Desktop\AspNetCoreMySQL\obj\MCD\Debug\netcoreapp2.0\AspNetCoreMySQL.dll
+C:\Users\Александра\Desktop\AspNetCoreMySQL\obj\MCD\Debug\netcoreapp2.0\AspNetCoreMySQL.pdb
